@@ -1,0 +1,5 @@
+http://localhost/restaurent/api/user/read.php
+http://localhost/restaurent/api/user/create.php
+http://localhost/restaurent/api/user/read.php?id=1
+http://localhost/restaurent/api/user/update.php?id=1
+http://localhost/restaurent/api/user/delete.php?id=1
